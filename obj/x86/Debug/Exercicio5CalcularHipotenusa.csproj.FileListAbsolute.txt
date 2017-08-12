@@ -1,0 +1,5 @@
+/Users/reginaldomorikawa/Documents/Curso Senac Mobile/Projetos/Exercicio5CalcularHipotenusa/obj/x86/Debug/Exercicio5CalcularHipotenusa.csproj.CoreCompileInputs.cache
+/Users/reginaldomorikawa/Documents/Curso Senac Mobile/Projetos/Exercicio5CalcularHipotenusa/bin/Debug/Exercicio5CalcularHipotenusa.exe
+/Users/reginaldomorikawa/Documents/Curso Senac Mobile/Projetos/Exercicio5CalcularHipotenusa/bin/Debug/Exercicio5CalcularHipotenusa.pdb
+/Users/reginaldomorikawa/Documents/Curso Senac Mobile/Projetos/Exercicio5CalcularHipotenusa/obj/x86/Debug/Exercicio5CalcularHipotenusa.exe
+/Users/reginaldomorikawa/Documents/Curso Senac Mobile/Projetos/Exercicio5CalcularHipotenusa/obj/x86/Debug/Exercicio5CalcularHipotenusa.pdb

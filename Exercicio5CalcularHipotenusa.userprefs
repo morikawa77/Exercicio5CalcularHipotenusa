@@ -1,0 +1,15 @@
+﻿<Properties StartupConfiguration="{83BD626C-EF5B-4A02-B752-DBA8C65A083B}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Program.cs">
+    <Files>
+      <File FileName="Program.cs" Line="18" Column="56" />
+      <File FileName="../Exercicio3CalculaCircunferenciaArea/Program.cs" Line="17" Column="23" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Exercicio5CalcularHipotenusa PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>
